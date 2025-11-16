@@ -1,0 +1,1 @@
+Le code de @send_rich_notifications ne semble pas correspondre à la notification reçue sur discord (voir les embeddings créés par la fonction.)
